@@ -1,0 +1,12 @@
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\bin\Debug\netcoreapp3.1\EmployeePartTimeUC.exe
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\bin\Debug\netcoreapp3.1\EmployeePartTimeUC.deps.json
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\bin\Debug\netcoreapp3.1\EmployeePartTimeUC.runtimeconfig.json
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\bin\Debug\netcoreapp3.1\EmployeePartTimeUC.runtimeconfig.dev.json
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\bin\Debug\netcoreapp3.1\EmployeePartTimeUC.dll
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\bin\Debug\netcoreapp3.1\EmployeePartTimeUC.pdb
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\obj\Debug\netcoreapp3.1\EmployeePartTimeUC.AssemblyInfoInputs.cache
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\obj\Debug\netcoreapp3.1\EmployeePartTimeUC.AssemblyInfo.cs
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\obj\Debug\netcoreapp3.1\EmployeePartTimeUC.csproj.CoreCompileInputs.cache
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\obj\Debug\netcoreapp3.1\EmployeePartTimeUC.dll
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\obj\Debug\netcoreapp3.1\EmployeePartTimeUC.pdb
+C:\Users\Mihir Gautam\source\repos\EmployeePartTimeUC\EmployeePartTimeUC\obj\Debug\netcoreapp3.1\EmployeePartTimeUC.genruntimeconfig.cache
