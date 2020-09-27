@@ -1,0 +1,4 @@
+C:\Users\Mihir Gautam\source\repos\SolvingUsingSwitchCaseUC\SolvingUsingSwitchCaseUC\obj\Debug\netcoreapp3.1\SolvingUsingSwitchCaseUC.csprojAssemblyReference.cache
+C:\Users\Mihir Gautam\source\repos\SolvingUsingSwitchCaseUC\SolvingUsingSwitchCaseUC\obj\Debug\netcoreapp3.1\SolvingUsingSwitchCaseUC.AssemblyInfoInputs.cache
+C:\Users\Mihir Gautam\source\repos\SolvingUsingSwitchCaseUC\SolvingUsingSwitchCaseUC\obj\Debug\netcoreapp3.1\SolvingUsingSwitchCaseUC.AssemblyInfo.cs
+C:\Users\Mihir Gautam\source\repos\SolvingUsingSwitchCaseUC\SolvingUsingSwitchCaseUC\obj\Debug\netcoreapp3.1\SolvingUsingSwitchCaseUC.csproj.CoreCompileInputs.cache
