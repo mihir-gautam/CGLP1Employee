@@ -1,0 +1,13 @@
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\bin\Debug\netcoreapp3.1\ConditionCheckUC.exe
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\bin\Debug\netcoreapp3.1\ConditionCheckUC.deps.json
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\bin\Debug\netcoreapp3.1\ConditionCheckUC.runtimeconfig.json
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\bin\Debug\netcoreapp3.1\ConditionCheckUC.runtimeconfig.dev.json
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\bin\Debug\netcoreapp3.1\ConditionCheckUC.dll
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\bin\Debug\netcoreapp3.1\ConditionCheckUC.pdb
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\obj\Debug\netcoreapp3.1\ConditionCheckUC.csprojAssemblyReference.cache
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\obj\Debug\netcoreapp3.1\ConditionCheckUC.AssemblyInfoInputs.cache
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\obj\Debug\netcoreapp3.1\ConditionCheckUC.AssemblyInfo.cs
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\obj\Debug\netcoreapp3.1\ConditionCheckUC.csproj.CoreCompileInputs.cache
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\obj\Debug\netcoreapp3.1\ConditionCheckUC.dll
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\obj\Debug\netcoreapp3.1\ConditionCheckUC.pdb
+C:\Users\Mihir Gautam\source\repos\ConditionCheckUC\ConditionCheckUC\obj\Debug\netcoreapp3.1\ConditionCheckUC.genruntimeconfig.cache
